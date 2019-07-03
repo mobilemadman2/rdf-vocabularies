@@ -21,11 +21,8 @@ module.exports = {
       file: 'http://qudt.org/2.0/schema/SCHEMA_QUDT-SCIENCE-v2.0.ttl'
     }]
   },
-  qudtv: {
+  unit: {
     files: [{
-      mediaType: 'text/turtle',
-      file: 'http://qudt.org/2.0/vocab/VOCAB_QUDT-DISCIPLINES-v2.0.ttl'
-    }, {
       mediaType: 'text/turtle',
       file: 'http://qudt.org/2.0/vocab/VOCAB_QUDT-UNITS-ACOUSTICS-v2.0.ttl'
     }, {
